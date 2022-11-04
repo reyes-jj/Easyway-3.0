@@ -5,5 +5,26 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+## Sources
 
+Freet, C. S., Steffen, C., Nestler, E. J., & Grigson, P. S. (2009). Overexpression of ΔFosB is associated with attenuated cocaine-induced suppression of saccharin intake in mice. Behavioral Neuroscience, 123(2), 397–407. https://doi.org/10.1037/a0015033
+
+Frings, D., Albery, I. P., Moss, A. C., Brunger, H., Burghelea, M., White, S., & Wood, K. V. (2020). Comparison of Allen Carr’s Easyway programme with a specialist behavioural and pharmacological smoking cessation support service: a randomized controlled trial. Addiction, 115(5), 977–985. https://doi.org/10.1111/add.14897
+
+Kabir, R., & Zaidi, S. T. (2022). Implicit Bias Against BIPOC Patients in Clinical Settings: A Qualitative Review. Spectra Undergraduate Research Journal, 2(1). https://doi.org/10.9741/2766-7227.1014
+
+Galán, C. A., Bekele, B., Boness, C., Bowdring, M., Call, C., Hails, K., McPhee, J., Mendes, S. H., Moses, J., Northrup, J., Rupert, P., Savell, S., Sequeira, S., Tervo-Clemmens, B., Tung, I., Vanwoerden, S., Womack, S., & Yilmaz, B. (2021). Editorial: A Call to Action for an Antiracist Clinical Science. Journal of Clinical Child &Amp; Adolescent Psychology, 50(1), 12–57. https://doi.org/10.1080/15374416.2020.1860066
+
+Grubbs, J. B., Floyd, C. G., Griffin, K. R., Jennings, T. L., & Kraus, S. W. (2022). Moral incongruence and addiction: A registered report. Psychology of Addictive Behaviors, 36(7), 749–761. https://doi.org/10.1037/adb0000876
+
+Bimpisidis, Z., & Wallén-Mackenzie, S. (2019). Neurocircuitry of Reward and Addiction: Potential Impact of Dopamine–Glutamate Co-release as Future Target in Substance Use Disorder. Journal of Clinical Medicine, 8(11), 1887. https://doi.org/10.3390/jcm8111887
+
+Alegria, M., Atkins, M., Farmer, E., Slaton, E., & Stelk, W. (2010). One Size Does Not Fit All: Taking Diversity, Culture and Context Seriously. Administration and Policy in Mental Health and Mental Health Services Research, 37(1–2), 48–60. https://doi.org/10.1007/s10488-010-0283-2
+
+Noël, X., Bechara, A., Brevers, D., Verbanck, P., & Campanella, S. (2010). Alcoholism and the Loss of Willpower. Journal of Psychophysiology, 24(4), 240–248. https://doi.org/10.1027/0269-8803/a000037
+
+Kreek, M. J., Reed, B., & Butelman, E. R. (2019). Current status of opioid addiction treatment and related preclinical research. Science Advances, 5(10). https://doi.org/10.1126/sciadv.aax9140
+
+Dijkstra, A., Zuidema, R., Vos, D., & van Kalken, M. (2014). The effectiveness of the Allen Carr smoking cessation training in companies tested in a quasi-experimental design. BMC Public Health, 14(1). https://doi.org/10.1186/1471-2458-14-952
+
+Keogan, S., Li, S., & Clancy, L. (2019). Allen Carr’s Easyway to Stop Smoking - A randomised  clinical tria. Tob Control, 28(1), 414–419. https://doi.org/10.1136/tobaccocontrol-2018-054243
