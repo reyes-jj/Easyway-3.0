@@ -1,5 +1,5 @@
 ---
-title: "Chapter 1: Introduction"
+title: "Chapter 1   Introduction"
 author: "Jyztine Reyes & Valeria Palache"
 date: "10-17-22"
 output: html_document
@@ -49,4 +49,4 @@ So what does Easyway
 
 ## 1.2 Before reading
 
-
+We won't wish you good luck - as you'll soon find out, you won't need it at all.
